@@ -206,7 +206,7 @@ h3{
         left: 50px;
     }
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:900px){
     .title-image{
         width: 50%;
         top: 2.5rem;
